@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tryingtobetechy
-- 👀 I’m interested in learning java
+- 👀 I’m interested in java
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on not yet
 - 📫 How to reach me its_chetanp_
